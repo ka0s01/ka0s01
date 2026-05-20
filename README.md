@@ -1,4 +1,6 @@
 ## Hi there 👋
+Im Aaron a CS Engineer based in Chennai, India
+I build, develop any idea that pops into my head
 
 <!--
 **ka0s01/ka0s01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
